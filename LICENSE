@@ -1,0 +1,112 @@
+GENIUS GROUPS SAS PROPRIETARY LICENSE
+
+Copyright (c) 2026 GENIUS GROUPS SAS. All Rights Reserved.
+
+This software and its associated documentation files (the "Software") are
+proprietary and confidential to GENIUS GROUPS SAS.
+
+LICENSE GRANT
+
+Subject to the terms and conditions of this License, GENIUS GROUPS SAS
+hereby grants to you a non-exclusive, non-transferable, non-sublicensable,
+revocable, limited license to:
+
+  1. Use the Software internally for evaluation and educational purposes;
+  2. Modify the Software for internal use, provided that all copyright
+     notices and this license are preserved;
+  3. Submit contributions back to GENIUS GROUPS SAS via pull requests,
+     subject to the contribution guidelines available at:
+     https://github.com/GENIUS-GROUPS-SAS/.github/blob/main/CONTRIBUTING.md
+
+RESTRICTIONS
+
+You may NOT:
+
+  1. Distribute, sublicense, sell, rent, lease, or otherwise transfer the
+     Software to any third party;
+  2. Use the Software for any commercial purpose without prior written
+     consent from GENIUS GROUPS SAS;
+  3. Remove or alter any copyright, trademark, or other proprietary notices;
+  4. Use the Software in any manner that could infringe upon the rights of
+     GENIUS GROUPS SAS;
+  5. Reverse engineer, decompile, or disassemble the Software, except to
+     the extent that such activity is expressly permitted by applicable law.
+
+OWNERSHIP
+
+The Software is licensed, not sold. GENIUS GROUPS SAS retains all right,
+title, and interest in and to the Software, including all intellectual
+property rights therein. This License does not grant you any rights to
+trademarks, service marks, or logos of GENIUS GROUPS SAS.
+
+CONTRIBUTIONS
+
+Any contributions submitted to GENIUS GROUPS SAS via pull request or
+otherwise are governed by the Contributor License Agreement available at:
+https://github.com/GENIUS-GROUPS-SAS/.github/blob/main/CONTRIBUTING.md
+
+By submitting a contribution, you grant GENIUS GROUPS SAS a perpetual,
+irrevocable, worldwide, royalty-free license to use, modify, distribute,
+and sublicense your contribution as part of the Software.
+
+DISCLAIMER OF WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL
+GENIUS GROUPS SAS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY,
+WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF,
+OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+LIMITATION OF LIABILITY
+
+IN NO EVENT SHALL GENIUS GROUPS SAS BE LIABLE FOR ANY INDIRECT, INCIDENTAL,
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED
+TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
+PROFITS; OR BUSINESS INTERRUPTION) ARISING IN ANY WAY OUT OF THE USE OF
+THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+OPEN SOURCE COMPONENTS
+
+Certain components of the Software may be distributed under separate open
+source licenses. Those components are identified in their respective source
+files and are governed by their respective license terms, which take
+precedence over this License for those components.
+
+CONTACT
+
+For licensing inquiries, commercial licenses, or partnership opportunities:
+
+  Email: legal@geniusgroups.org
+  Web:   https://geniusgroups.org
+
+GENIUS GROUPS SAS
+Abidjan, Côte d'Ivoire
+
+---
+
+For open-source repositories published by GENIUS GROUPS SAS, the MIT License
+below applies instead:
+
+MIT License
+
+Copyright (c) 2026 GENIUS GROUPS SAS
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

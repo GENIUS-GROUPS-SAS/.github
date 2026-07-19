@@ -1,0 +1,100 @@
+name: ✨ Feature Request
+description: Propose a new feature or enhancement for a GENIUS GROUPS product
+title: "[feature]: "
+labels: ["enhancement", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## ✨ Feature Request
+
+        Thank you for suggesting a feature! Before submitting:
+
+        - **Search** existing issues and discussions to avoid duplicates.
+        - **Check** our [Roadmap](../ROADMAP.md) — your idea might already be planned.
+        - **Be specific** — vague requests are hard to act on.
+
+        Good feature requests include: the problem, the proposed solution, and alternatives considered.
+  - type: dropdown
+    id: product
+    attributes:
+      label: Product
+      description: Which product would this feature belong to?
+      options:
+        - GeniusPay™
+        - Genius Invoice™
+        - Genius Docs Sign™
+        - Genius Identity™
+        - Genius AI™
+        - Genius Work™
+        - Genius Runtime™
+        - Genius Cloud™
+        - MonEglise.™
+        - StartUp.™
+        - .github (this repository)
+        - Other / Cross-product
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem Statement
+      description: What problem does this feature solve? Who is affected?
+      placeholder: "As a [user/developer/admin], I need [X] so that I can [Y]. Currently, I have to [workaround]."
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: Proposed Solution
+      description: Describe the feature you'd like to see. Be as specific as possible.
+      placeholder: "I would like GeniusPay to support [X]. The API could expose [endpoint] with [parameters]..."
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives Considered
+      description: Have you considered other approaches? Why didn't they work?
+  - type: dropdown
+    id: priority
+    attributes:
+      label: Priority
+      description: How important is this to you?
+      options:
+        - Nice to have
+        - Important
+        - Critical / Blocking
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      description: What type of feature is this?
+      options:
+        - New API endpoint
+        - New UI / UX
+        - Integration / Webhook
+        - SDK / Developer Tooling
+        - Security / Compliance
+        - Performance / Scalability
+        - Documentation
+        - Infrastructure / DevOps
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: mockups
+    attributes:
+      label: Mockups / References
+      description: Attach any wireframes, screenshots, API schemas, or links to similar features in other products.
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Confirmation
+      options:
+        - label: I have searched existing issues and discussions and confirmed this is not a duplicate.
+          required: true
+        - label: I have reviewed the Roadmap and this feature is not already planned.
+          required: true

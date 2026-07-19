@@ -1,0 +1,80 @@
+name: 📖 Documentation Issue
+description: Report incorrect, outdated, or missing documentation
+title: "[docs]: "
+labels: ["documentation", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 📖 Documentation Issue
+
+        Documentation is a first-class citizen at GENIUS GROUPS. If something is unclear, incorrect, or missing, we want to know.
+
+        This template covers: API docs, READMEs, guides, tutorials, code comments, and architectural documents.
+  - type: dropdown
+    id: doc_type
+    attributes:
+      label: Documentation Type
+      description: What type of documentation is affected?
+      options:
+        - API Reference (OpenAPI / Swagger)
+        - README
+        - Developer Guide
+        - User Guide
+        - Architecture Document (ADR, C4, UML)
+        - Tutorial / Quickstart
+        - Code Comments / Inline Docs
+        - Changelog / Release Notes
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: Documentation Location
+      description: Where is the documentation? Provide a URL, file path, or section reference.
+      placeholder: "e.g., https://docs.geniusgroups.africa/api/payments, or /docs/adr/ADR-003.md"
+    validations:
+      required: true
+  - type: dropdown
+    id: issue_type
+    attributes:
+      label: Issue Type
+      description: What's wrong with the documentation?
+      options:
+        - Incorrect / Inaccurate
+        - Outdated / Stale
+        - Missing / Not written
+        - Unclear / Confusing
+        - Broken Link
+        - Typo / Grammar
+        - Code Example Doesn't Work
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Describe the issue in detail. What's wrong? What should it say instead?
+    validations:
+      required: true
+  - type: textarea
+    id: suggested_fix
+    attributes:
+      label: Suggested Fix
+      description: If you know what the documentation should say, provide it here. We may use it directly.
+      render: markdown
+  - type: input
+    id: product
+    attributes:
+      label: Related Product
+      description: Which product does this documentation belong to?
+      placeholder: "GeniusPay™, Genius Invoice™, etc."
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Confirmation
+      options:
+        - label: I have searched existing issues and confirmed this is not a duplicate.
+          required: true

@@ -1,0 +1,59 @@
+name: ❓ Question / Discussion
+description: Ask a question about usage, integration, or architecture
+title: "[question]: "
+labels: ["question", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## ❓ Question
+
+        Have a question about how to use a GENIUS GROUPS product, integrate an API, or understand an architectural decision?
+
+        > 💡 **Tip:** For broader discussions, consider using [GitHub Discussions](https://github.com/orgs/GENIUS-GROUPS-SAS/discussions) instead. Issues are better for specific, answerable questions.
+  - type: dropdown
+    id: product
+    attributes:
+      label: Product
+      description: Which product is your question about?
+      options:
+        - GeniusPay™
+        - Genius Invoice™
+        - Genius Docs Sign™
+        - Genius Identity™
+        - Genius AI™
+        - Genius Work™
+        - Genius Runtime™
+        - Genius Cloud™
+        - .github (this repository)
+        - General / Cross-product
+    validations:
+      required: true
+  - type: textarea
+    id: question
+    attributes:
+      label: Your Question
+      description: Be specific. Include what you're trying to achieve, what you've tried, and where you're stuck.
+      placeholder: "I'm trying to integrate GeniusPay webhooks in my Node.js app. I've set up the endpoint but I'm not sure how to verify the HMAC signature..."
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      description: Any relevant code, configuration, or environment details?
+      render: shell
+  - type: textarea
+    id: tried
+    attributes:
+      label: What I've Tried
+      description: List any approaches, workarounds, or documentation you've already consulted.
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Confirmation
+      options:
+        - label: I have searched existing issues and discussions and confirmed this is not a duplicate.
+          required: true
+        - label: I have reviewed the relevant documentation before asking.
+          required: true

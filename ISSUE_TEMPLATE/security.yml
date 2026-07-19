@@ -1,0 +1,93 @@
+name: 🔒 Security Vulnerability Report
+description: Report a security vulnerability in a GENIUS GROUPS product
+title: "[security]: "
+labels: ["security", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 🔒 Security Vulnerability Report
+
+        **⚠️ DO NOT include sensitive details, exploit code, or step-by-step reproduction in this public issue.**
+
+        If the vulnerability is **critical** or could compromise user data, funds, or infrastructure, please report it privately via email to **[security@geniusgroups.africa](mailto:security@geniusgroups.africa)** instead of using this template.
+
+        See our full [Security Policy](../SECURITY.md) for details on responsible disclosure, supported versions, and our response process.
+
+        Use this template **only** for non-critical security issues that are safe to discuss publicly (e.g., missing security headers, dependency vulnerabilities with known fixes, hardening suggestions).
+  - type: dropdown
+    id: product
+    attributes:
+      label: Product
+      description: Which product is affected?
+      options:
+        - GeniusPay™
+        - Genius Invoice™
+        - Genius Docs Sign™
+        - Genius Identity™
+        - Genius AI™
+        - Genius Work™
+        - Genius Runtime™
+        - Genius Cloud™
+        - .github (this repository)
+        - Other / Infrastructure
+    validations:
+      required: true
+  - type: dropdown
+    id: severity
+    attributes:
+      label: Severity
+      description: How severe is this vulnerability? (If unsure, overestimate.)
+      options:
+        - Low — Hardening / best practice improvement
+        - Medium — Possible to exploit but limited impact
+        - High — Exploitable, significant impact
+        - Critical — Immediate risk to user data, funds, or infrastructure
+    validations:
+      required: true
+  - type: textarea
+    id: summary
+    attributes:
+      label: Vulnerability Summary
+      description: Describe the vulnerability at a high level. Do NOT include exploit code or detailed reproduction steps if the severity is High or Critical.
+      placeholder: "The [endpoint] is missing rate limiting, which could allow brute-force attacks on..."
+    validations:
+      required: true
+  - type: textarea
+    id: impact
+    attributes:
+      label: Impact
+      description: What could an attacker do if this vulnerability is exploited? Who is affected?
+      placeholder: "An attacker could [X], affecting [Y] users/systems."
+    validations:
+      required: true
+  - type: textarea
+    id: affected_versions
+    attributes:
+      label: Affected Versions
+      description: Which versions are affected? If known, specify the version range.
+      placeholder: "e.g., >= 1.0.0, < 1.3.0"
+    validations:
+      required: true
+  - type: textarea
+    id: suggested_fix
+    attributes:
+      label: Suggested Mitigation / Fix
+      description: If you have ideas for how to fix or mitigate this, describe them here.
+  - type: textarea
+    id: references
+    attributes:
+      label: References
+      description: Links to CWE, OWASP, CVEs, or related issues.
+      placeholder: "CWE-79, OWASP A03:2021, CVE-2024-XXXX"
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Confirmation
+      options:
+        - label: I have reviewed the SECURITY.md policy and understand the responsible disclosure process.
+          required: true
+        - label: I have NOT included exploit code, credentials, or sensitive data in this report.
+          required: true
+        - label: I confirm this is a non-critical issue safe for public discussion (or I will also email security@geniusgroups.africa if critical).
+          required: true
