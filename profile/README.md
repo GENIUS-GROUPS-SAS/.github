@@ -2,22 +2,10 @@
 
 <br/>
 
-![GENIUS GROUPS SAS](https://img.shields.io/badge/GENIUS_GROUPS_SAS-Build_African_first_Digital_Infrastructure-D4AF37?style=for-the-badge)
-
-<br/>
-<br/>
 
 # 🌍 GENIUS GROUPS SAS
 
 ### Build African-first Digital Infrastructure.
-
-<br/>
-
-![HQ](https://img.shields.io/badge/HQ-Abidjan_Cote_d_Ivoire-red?style=flat-square)
-![Legal](https://img.shields.io/badge/Legal-GENIUS_GROUPS_SAS-blue?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Building-orange?style=flat-square)
-![Focus](https://img.shields.io/badge/Focus-SaaS_FinTech_AI_GovTech-9CF?style=flat-square)
-![License](https://img.shields.io/badge/License-Proprietary-lightgrey?style=flat-square)
 
 <br/>
 
