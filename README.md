@@ -2,7 +2,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/GENIUS%20GROUPS%20SAS-.github-D4AF37?style=for-the-badge" alt="GENIUS GROUPS SAS .github" />
+![GENIUS GROUPS SAS .github](https://img.shields.io/badge/GENIUS_GROUPS_SAS-.github-D4AF37?style=for-the-badge)
 
 <br/>
 <br/>
@@ -13,10 +13,10 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Type-Organization%20Profile-blue?style=flat-square" alt="Type" />
-<img src="https://img.shields.io/badge/Visibility-Public-success?style=flat-square" alt="Visibility" />
-<img src="https://img.shields.io/badge/Purpose-Governance%20%26%20Templates-purple?style=flat-square" alt="Purpose" />
-<img src="https://img.shields.io/badge/Org-GENIUS--GROUPS--SAS-D4AF37?style=flat-square" alt="Org" />
+![Type](https://img.shields.io/badge/Type-Organization_Profile-blue?style=flat-square)
+![Visibility](https://img.shields.io/badge/Visibility-Public-success?style=flat-square)
+![Purpose](https://img.shields.io/badge/Purpose-Governance_Templates-purple?style=flat-square)
+![Org](https://img.shields.io/badge/Org-GENIUS_GROUPS_SAS-D4AF37?style=flat-square)
 
 <br/>
 <br/>
@@ -152,8 +152,8 @@ Open-source repositories published by GENIUS GROUPS SAS use the MIT License.
 
 <br/>
 
-<img src="https://img.shields.io/badge/Made%20with-❤️%20in%20Africa-FFD700?style=flat-square" alt="Made in Africa" />
-<img src="https://img.shields.io/badge/Powered%20by-Product%20Engineering-9CF?style=flat-square" alt="Product Engineering" />
+![Made in Africa](https://img.shields.io/badge/Made_with-Africa-FFD700?style=flat-square)
+![Product Engineering](https://img.shields.io/badge/Powered_by-Product_Engineering-9CF?style=flat-square)
 
 <br/>
 <br/>

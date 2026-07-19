@@ -2,7 +2,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/GENIUS%20GROUPS%20SAS-Build%20African--first%20Digital%20Infrastructure-D4AF37?style=for-the-badge" alt="GENIUS GROUPS SAS" />
+![GENIUS GROUPS SAS](https://img.shields.io/badge/GENIUS_GROUPS_SAS-Build_African_first_Digital_Infrastructure-D4AF37?style=for-the-badge)
 
 <br/>
 <br/>
@@ -13,11 +13,58 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/HQ-Abidjan%2C%20Côte%20d'Ivoire-red?style=flat-square" alt="HQ" />
-<img src="https://img.shields.io/badge/Legal-GENIUS%20GROUPS%20SAS-blue?style=flat-square" alt="Legal" />
-<img src="https://img.shields.io/badge/Status-🚀%20Building-orange?style=flat-square" alt="Status" />
-<img src="https://img.shields.io/badge/Focus-SaaS%20%7C%20FinTech%20%7C%20AI%20%7C%20GovTech-9CF?style=flat-square" alt="Focus" />
-<img src="https://img.shields.io/badge/License-Proprietary-lightgrey?style=flat-square" alt="License" />
+![HQ](https://img.shields.io/badge/HQ-Abidjan_Cote_d_Ivoire-red?style=flat-square)
+![Legal](https://img.shields.io/badge/Legal-GENIUS_GROUPS_SAS-blue?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Building-orange?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-SaaS_FinTech_AI_GovTech-9CF?style=flat-square)
+![License](https://img.shields.io/badge/License-Proprietary-lightgrey?style=flat-square)
+
+<br/>
+
+### Tech Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=reactos&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c7c?style=flat-square&logo=grpc&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 <br/>
 <br/>
